@@ -354,7 +354,8 @@ footer {
     width: 100vw;
     /* background: rgba(0, 0, 0, 0.8); */
     /* background:rgba(54, 54, 54, 0.25), url('./imgs/footercover.png'); */
-    background:linear-gradient(rgba(90, 90, 90, 0.45), rgba(64, 114, 80, 0.45)), url('./imgs/footercover.png');
+    background:linear-gradient(rgba(90, 90, 90, 0.45), rgba(64, 114, 80,
+0.45)), url('./imgs/footercover.png');
     background-size: cover;
     background-position: center;
     /* background-repeat: no-repeat; */
